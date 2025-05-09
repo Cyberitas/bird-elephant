@@ -461,5 +461,5 @@ class Request
             $this->getMediaCategeoryForMimeType($mimeType),
             self::ASYNC_MEDIA_CATEGORIES,
         );
-     }
+    }
 }
